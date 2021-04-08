@@ -1,5 +1,5 @@
 # VOC_make
-VOC数据集制作
+数据标签的一些转换脚本
 
 json_to_xml.py为json数据集转xml数据脚本
 
